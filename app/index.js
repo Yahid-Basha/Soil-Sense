@@ -58,3 +58,4 @@ const styles = StyleSheet.create({
 
 // Export the component
 export default HomeScreen;
+// this is index.js
