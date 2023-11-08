@@ -5,7 +5,7 @@ The Fertiliser Predictor App is a cutting-edge tool designed to assist farmers i
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [App Screens(#app-screens)
+- [App Screens](#app-screens)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
