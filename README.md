@@ -60,16 +60,16 @@ This app leverages a custom-built API to predict the necessary fertiliser based 
 
 ### Home Screen
 
-The home screen is the launchpad of the app where the farmer can view the latest soil data received from the IoT device.
+The home screen is the launchpad of the app where the farmer is greeted with a warm hello!
 
 ### Prediction Screen
 
-After the soil data is updated, the farmer can navigate to the prediction screen and press the 'Predict' button to receive the fertiliser recommendation.
+After the soil data is updated, the farmer can navigate to the prediction screen and can view the latest soil data received from the IoT device, press the 'Predict' button to receive the fertiliser recommendation.
 
 ## API Integration
 
 The app is integrated with a custom API for fertiliser prediction, which is available at:
-[https://github.com/Yahid-Basha/fertiliserpredictor-api.git](https://github.com/Yahid-Basha/fertiliserpredictor-api.git)
+[My Fertilisor predictor API](https://github.com/Yahid-Basha/fertiliserpredictor-api.git)
 
 ## Limitations and Future Scope
 
