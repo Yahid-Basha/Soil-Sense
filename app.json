@@ -8,6 +8,18 @@
       "expo-router"
     ],
     "name": "fertiliser-predictor",
-    "slug": "fertiliser-predictor"
+    "slug": "fertiliser-predictor",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "56b75835-f3db-4b88-86ed-1c64a6923a2c"
+      }
+    },
+    "owner": "yahid",
+    "android": {
+      "package": "com.yahid.fertiliserpredictor"
+    }
   }
 }
