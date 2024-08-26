@@ -1,4 +1,4 @@
-# Fertiliser Predictor App
+# Soil Sense
 
 The Fertiliser Predictor App is a cutting-edge tool designed to assist farmers in making informed decisions about fertiliser application for cotton plants. Utilizing IoT technology, the app simplifies the process of determining the optimal fertiliser composition based on real-time soil data.
 
